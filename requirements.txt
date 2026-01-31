@@ -1,0 +1,6 @@
+pandas
+yfinance
+streamlit
+altair
+plotly
+watchdog
