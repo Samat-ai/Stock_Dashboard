@@ -2,6 +2,9 @@
 
 A full-stack financial data application built with Python. This dashboard provides real-time stock tracking, interactive technical analysis charts, and a personal watchlist feature powered by a local SQL database.
 
+## 📱 Website Link
+https://stockdashboard-kedikztbffesz67rmsv48q.streamlit.app/
+
 ## 🚀 Features
 
 * **Real-Time Data Fetching:** Integrates with the `yfinance` API to pull live stock prices, company fundamentals, and financial statements.
