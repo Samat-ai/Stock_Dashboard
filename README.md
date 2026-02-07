@@ -1,6 +1,6 @@
 # 📈 Financial Stock Dashboard
 
-A full-stack financial data application built with Python. This dashboard provides real-time stock tracking, interactive technical analysis charts, and a personal watchlist feature powered by a local SQL database.
+A full-stack financial data application built with Python. This dashboard provides real-time stock tracking, interactive technical analysis charts, and a personal watchlist feature powered by a local SQLite database.
 
 ## 📱 Website Link
 https://stockdashboard-kedikztbffesz67rmsv48q.streamlit.app/
